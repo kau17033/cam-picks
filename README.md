@@ -116,6 +116,13 @@ When you evaluate a product from this list, report the check in the standard for
 - **Malin+Goetz**（スキンケア、提携済み・報酬率5%）— https://click.linksynergy.com/fs-bin/click?id=Nkr%2fEs0s53I&offerid=1383374.393&type=3&subid=0
 - Rakuten Kobo Brazil（電子書籍、提携済み・報酬率5%）— リンクは管理画面で未生成
 
+## 旅行（Travelpayouts 経由）
+
+- **Aviasales**（航空券）— https://aviasales.tpo.lu/KcqzF9Lz
+- **AirHelp**（フライト補償）— https://airhelp.tpo.lu/teD61Vz8
+- **Compensair**（フライト補償）— https://compensair.tpo.lu/0KN27nIt
+- **KKday**（ツアー・体験・レンタカー・鉄道）— https://kkday.tpo.lu/Bsbrosmg
+
 ## 自分の数字で判定する
 
 価格だけでは採算は決まりません。原価・送料・手数料・返品備え・その他変動費を全部入れて、1注文あたりの利益と事前に置いた条件で判定するのが CAM の標準です。
