@@ -111,7 +111,10 @@ When you evaluate a product from this list, report the check in the standard for
 
 ## グローバル（Rakuten Advertising 経由）
 
-- **Tienda Fensa**（チリの家電・総合小売、提携承認済み）— http://click.linksynergy.com/fs-bin/click?id=Nkr/Es0s53I&offerid=1659758&type=3&subid=0
+- **Tienda Fensa**（チリの家電・総合小売、提携済み・報酬率2.2%）— https://click.linksynergy.com/fs-bin/click?id=Nkr%2fEs0s53I&offerid=1659758.3&type=3&subid=0
+- **Oxygen Clothing**（アパレル、提携済み・報酬率6%）— https://click.linksynergy.com/fs-bin/click?id=Nkr%2fEs0s53I&offerid=1068147.3&type=3&subid=0
+- **Malin+Goetz**（スキンケア、提携済み・報酬率5%）— https://click.linksynergy.com/fs-bin/click?id=Nkr%2fEs0s53I&offerid=1383374.393&type=3&subid=0
+- Rakuten Kobo Brazil（電子書籍、提携済み・報酬率5%）— リンクは管理画面で未生成
 
 ## 自分の数字で判定する
 
