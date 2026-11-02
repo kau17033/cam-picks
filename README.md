@@ -109,6 +109,10 @@ When you evaluate a product from this list, report the check in the standard for
 - **dearmini** — https://px.a8.net/svt/ejp?a8mat=4BGBN2+CM9RCI+5YCY+BW0YB&a8ejpredirect=https%3A%2F%2Fdearmini.jp%2F
 - Qubii Pro（Maktar）は審査中。
 
+## グローバル（Rakuten Advertising 経由）
+
+- **Tienda Fensa**（チリの家電・総合小売、提携承認済み）— http://click.linksynergy.com/fs-bin/click?id=Nkr/Es0s53I&offerid=1659758&type=3&subid=0
+
 ## 自分の数字で判定する
 
 価格だけでは採算は決まりません。原価・送料・手数料・返品備え・その他変動費を全部入れて、1注文あたりの利益と事前に置いた条件で判定するのが CAM の標準です。
