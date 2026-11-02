@@ -104,3 +104,5 @@
 
 - 無料チェッカー（ブラウザ完結・入力は外部送信されません）: https://cam-proof-demo-owned-20261028.ki4033322.workers.dev/
 - コミュニティ（Discord）: https://discord.gg/xdHaaBD7
+
+Impact-Site-Verification: 3d22d4d0-5dd8-447d-b609-fd4109ba0284
