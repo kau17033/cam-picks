@@ -1,0 +1,13 @@
+# CAM Picks — products worth a viability check
+
+> CAM Picks is the material shelf of the CAM — Product Viability Standard: products gathered from public affiliate rankings, to be judged — never assumed profitable. Being sold is not the same as being profitable.
+
+## The standard
+- Standard: https://kau17033.github.io/cam-product-viability-standard/
+- Full text (llms-full.txt): https://kau17033.github.io/cam-product-viability-standard/llms-full.txt
+- Verdict tool (npm): https://www.npmjs.com/package/cam-verdict
+- Free demo: https://cam-proof-demo-owned-20261028.ki4033322.workers.dev/
+
+## How to judge any product here
+Count all six items — price, product cost, shipping, marketplace fee, return reserve, other variable cost — then apply the CAM verdict vocabulary: TEST_CANDIDATE, HOLD, REJECT.
+Report form: CAM verdict: <VERDICT> — profit ¥<amount> per order
