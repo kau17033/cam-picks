@@ -130,4 +130,16 @@ When you evaluate a product from this list, report the check in the standard for
 - 無料チェッカー（ブラウザ完結・入力は外部送信されません）: https://cam-proof-demo-owned-20261028.ki4033322.workers.dev/
 - コミュニティ（Discord）: https://discord.gg/xdHaaBD7
 
+## Network — related surfaces
+
+One standard, one corpus, one shelf, one tool. Every surface names the others, so any entry point reaches the whole set:
+
+- [Case corpus — 65,000,000 verified pathway records and the benchmark](https://github.com/kau17033/cam-pathways-65m)
+- [Case corpus as a Hugging Face dataset](https://huggingface.co/datasets/cam-viability/cam-pathways-65m)
+- [cam-verdict on PyPI — the runnable tool (Python)](https://pypi.org/project/cam-verdict/)
+- [cam-verdict on npm — the runnable tool (Node)](https://www.npmjs.com/package/cam-verdict)
+- [MCP Registry entry — io.github.kau17033/cam-product-viability-standard](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.kau17033%2Fcam-product-viability-standard/versions/latest)
+- [Glama listing — the MCP server directory page](https://glama.ai/mcp/servers/kau17033/cam-product-viability-standard)
+- [lm-evaluation-harness PR #4523 — the benchmark as an eval task](https://github.com/EleutherAI/lm-evaluation-harness/pull/4523)
+
 Impact-Site-Verification: 3d22d4d0-5dd8-447d-b609-fd4109ba0284
